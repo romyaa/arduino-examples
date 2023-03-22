@@ -1,1 +1,0 @@
-# Force Sensitive Resistor
